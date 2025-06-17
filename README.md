@@ -39,6 +39,6 @@ This project is a machine learning pipeline for predicting house prices. It incl
 To install the project, clone the repository and install the dependencies:
 
 ```bash
-git clone git@github.com:saadkhalid-git/dsp-saad-khalid.git
-cd DSP-SAAD-KHALID
+git clone git@github.com:semmaa/House-Price-Prediction.git
+cd House Price Prediction
 pip install -r requirements.txt

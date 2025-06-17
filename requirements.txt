@@ -1,0 +1,9 @@
+pandas
+pandas
+numpy
+joblib
+scikit-learn
+matplotlib
+seaborn
+house-prices-prediction-pipeline
+seaborn
